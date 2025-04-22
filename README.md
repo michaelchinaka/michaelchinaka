@@ -1,16 +1,35 @@
-## Hi there 👋
+<!-- Header -->
+<h1 align="center">Hi 👋, I'm Michael</h1>
+<h3 align="center">AI Researcher | Biomedical Engineer | Full-Stack Developer</h3>
 
-<!--
-**michaelchinaka/michaelchinaka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://your-ghibli-image-link.png" width="400"/>
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 About Me
+
+- 🔭 I’m currently working on **a nutrition tracking app using AI**
+- 🌱 I’m learning **React, Streamlit, and Deployment pipelines**
+- 🧠 My background is in **Biomedical Engineering and AI for Healthcare**
+- 💬 Ask me about anything AI, microfluidics, or ML in biomed!
+
+---
+
+### 🧰 Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,js,react,html,css,aws,git,github,docker,postgres,fastapi,linux" />
+</p>
+
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=michaelchinaka&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=michaelchinaka&layout=compact&theme=tokyonight" />
+</p>
+
+---
