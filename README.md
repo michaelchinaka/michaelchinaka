@@ -69,6 +69,9 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=michaelchinaka&show_icons=true&theme=tokyonight" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=michaelchinaka&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=michaelchinaka&count_private=true&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=michaelchinaka&layout=compact&theme=tokyonight" />
+
 </p>
 
 ---
