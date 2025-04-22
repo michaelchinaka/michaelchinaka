@@ -10,28 +10,29 @@
 
 ### 🚀 About Me
 
-- 🔭 I’m currently working on **a nutrition tracking app using AI**
-- 🌱 I’m learning **React, Streamlit, and Deployment pipelines**
-- 🧠 My background is in **Biomedical Engineering and AI for Healthcare**
-- 💬 Ask me about anything AI, microfluidics, or ML in biomed!
+	•	📱 Built a mobile app in Java from scratch
+	•	⚽️ Wrote a tutorial on building your own sports analytics predictive model with PyTorch
+	•	🛠️ I like building things that blend AI, data, and clean design
+	•	🌍 Take a stroll through the repos — you’ll see what I mean
+
 
 ---
 
-### 🧰 Tech Stack
+## 🧰 Tech Stack
 
+### 👨🏾‍💻 Programming & Development
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,react,html,css,aws,git,github,docker,postgres,fastapi,linux" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Unix-000000?style=for-the-badge&logo=linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/REST_API-FF6F61?style=for-the-badge&logo=postman&logoColor=white" />
 </p>
-
----
-
-### 🧰 Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,react,html,css,aws,git,github,docker,postgres,fastapi,linux" />
-</p>
-
-
 
 ---
 
