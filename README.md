@@ -10,10 +10,10 @@
 
 ### 🚀 About Me
 
-	•	📱 Built a mobile app in Java from scratch
-	•	⚽️ Wrote a tutorial on building your own sports analytics predictive model with PyTorch
-	•	🛠️ I like building things that blend AI, data, and clean design
-	•	🌍 Take a stroll through the repos — you’ll see what I mean
+- 📱 Built a mobile app in Java from scratch
+- ⚽️ Wrote a tutorial on building your own sports analytics predictive model with PyTorch
+- 🛠️ I like building things that blend AI, data, and clean design
+- 🌍 Take a stroll through the repos and see what I do
 
 
 ---
