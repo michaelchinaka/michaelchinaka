@@ -3,7 +3,7 @@
 <h3 align="center">Full-Stack Developer| AI/Machine Learning Enthusiast</h3>
 
 <p align="center">
-  img src="michaelchinaka/assets/profile-ghibli.png" width="400" alt="Michael cartoon coding" /
+  <img src="assets/profile-ghibli.png" width="400" alt="Michael cartoon coding" />
 </p>
 
 ---
